@@ -251,11 +251,11 @@
     this.y = y
   }
   })("sweaverD.com");
-  const nameGirl = 'Giang mai';
-const giftUrl = 'https://sex3s.com/lua-tinh-dit-em-sinh-vien-moi-lon/';
+  const nameGirl = 'Giang';
+const giftUrl = 'video.html';
 const eventName = 'Sinh nhật vui nhé ';
-const titleCard = 'anh rất tặng em';
-const contentCard = 'Nhìn em thật là hấp dẫn,làm người yêu anh nhé';
+const titleCard = 'anh tặng em';
+const contentCard = 'làm người yêu anh nhé';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
