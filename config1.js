@@ -251,11 +251,11 @@
     this.y = y
   }
   })("sweaverD.com");
-  const nameGirl = 'Giang';
+  const nameGirl = '';
 const giftUrl = 'https://www.tiktok.com/@thunv1tv/video/7188949792138022170?fbclid=IwAR1x7Eqg6T4OuewVOOr-KAsO5YEm97sPBm7f7gFfFLJk4kLcpNR7bTkteKQ&is_from_webapp=1&web_id=7161752186790692353';
-const eventName = 'Sinh nhật vui nhé ';
-const titleCard = 'anh tặng em';
-const contentCard = 'làm người yêu anh nhé';
+const eventName = 'Mở hộp ik nèe';
+const titleCard = 'click 2 ảnh và chờ xem ^^';
+const contentCard = 'Chúc em bước sang 1 tuổi mới vẫn giữ được nguồn năng lượng tích cực, mãi vui vẻ, xinh gái và chinh phục được hết các giấc mơ còn dang dở nha~~ Tuổi 20 rực cháyy !!';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
