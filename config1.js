@@ -252,7 +252,7 @@
   }
   })("sweaverD.com");
   const nameGirl = 'Giang';
-const giftUrl = 'https://www.tiktok.com/@thunv1tv/video/7188923734202256666?fbclid=IwAR0isMIfr1hz2SjX_VrNHUz_0AhLB2TKKvXrtfmmY8CA4ua2Z_t_wVUxM6k&is_from_webapp=1&web_id=7161752186790692353';
+const giftUrl = 'https://www.tiktok.com/@thunv1tv/video/7188949792138022170?fbclid=IwAR1x7Eqg6T4OuewVOOr-KAsO5YEm97sPBm7f7gFfFLJk4kLcpNR7bTkteKQ&is_from_webapp=1&web_id=7161752186790692353';
 const eventName = 'Sinh nhật vui nhé ';
 const titleCard = 'anh tặng em';
 const contentCard = 'làm người yêu anh nhé';
@@ -285,7 +285,7 @@ function init() {
   if (gift_url) {
     _giftLink = document.createElement("a");
     _giftLink.href = gift_url;
-    _giftLink.target = "_blank";
+    _giftLink.target = "_top";
     presentImage.appendChild(_giftLink);
   }
   
