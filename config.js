@@ -252,7 +252,7 @@
   }
   })("sweaverD.com");
   const nameGirl = 'Giang';
-const giftUrl = 'video.html';
+const giftUrl = 'https://www.tiktok.com/@thunv1tv/video/7188923734202256666?fbclid=IwAR0isMIfr1hz2SjX_VrNHUz_0AhLB2TKKvXrtfmmY8CA4ua2Z_t_wVUxM6k&is_from_webapp=1&web_id=7161752186790692353';
 const eventName = 'Sinh nhật vui nhé ';
 const titleCard = 'anh tặng em';
 const contentCard = 'làm người yêu anh nhé';
